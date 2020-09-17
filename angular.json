@@ -126,6 +126,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "leaflet-a10"
+    }
+  },
+  "defaultProject": "leaflet-a10",
+  "cli": {
+    "analytics": false
+  }
 }
